@@ -3,6 +3,7 @@
 An AI-powered Tic-Tac-Toe game built using **Python, Streamlit, and the Minimax algorithm** as part of the **CODSOFT Internship – Task 2**.
 
 ## 📌 Project Overview
+https://codsofttask2-m8a8frpdakxxxyfzi3bmly.streamlit.app/
 
 This project is an interactive Human vs AI Tic-Tac-Toe game.
 
